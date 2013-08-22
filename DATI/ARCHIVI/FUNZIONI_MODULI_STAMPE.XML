@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_FunzioniModuliStampe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STDT_FunzioniModuliStampe>
+    <FUNZIONE>EstrattoConto</FUNZIONE>
+    <Modulo />
+    <TipoModulo>TXT</TipoModulo>
+  </STDT_FunzioniModuliStampe>
+  <STDT_FunzioniModuliStampe>
+    <FUNZIONE>CaricoFiscale</FUNZIONE>
+    <Modulo />
+    <TipoModulo>TXT</TipoModulo>
+  </STDT_FunzioniModuliStampe>
+  <STDT_FunzioniModuliStampe>
+    <FUNZIONE>RicevutaPagamento</FUNZIONE>
+    <Modulo />
+    <TipoModulo>TXT</TipoModulo>
+  </STDT_FunzioniModuliStampe>
+  <STDT_FunzioniModuliStampe>
+    <FUNZIONE>Incassi</FUNZIONE>
+    <Modulo />
+    <TipoModulo>TXT</TipoModulo>
+  </STDT_FunzioniModuliStampe>
+</ArrayOfSTDT_FunzioniModuliStampe>

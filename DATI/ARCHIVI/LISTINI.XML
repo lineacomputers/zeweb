@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_Listini xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STDT_Listini>
+    <CodiceArticolo>MI0019</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>100</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>AR0016</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>100</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0035</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>100</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <GruppoCliente>100</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0032</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino>CROCCHE</GruppoMagazzino>
+    <GruppoCliente>107</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2013-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>RI0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino>RICOTTA</GruppoMagazzino>
+    <GruppoCliente>107</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2013-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>RI0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>104</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>20</Sconto>
+    <DataInizio>2000-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>105</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto />
+    <DataInizio>2000-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <GruppoCliente>109</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CA0032</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CA0033</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CO0033</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CO0034</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CO0040</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>AR0016</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0035</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MI0019</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0008</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0025</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0026</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0027</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0036</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>FA0020</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>FA0023</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>FA0026</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>FA0027</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0020</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0020S</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0021</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0021S</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0022</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0022S</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0023</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0023S</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0026</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0027</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>GC0029</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>LE0002</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>LE0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>SF0005</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>30</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>BI0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>BI0004</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>BI0005</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>DE0004</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>LU0001</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MI0016</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MI0018</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MU0001</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MVK211</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>40+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MVK212</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>40+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MVK214</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>40+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MVK216</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>40+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MVSF15</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>40+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MVSF16</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>40+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>PB0001</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>RI0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>SF0009</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>TR0013</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>TR0014</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>TR0015</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>TR0021</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>112</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <GruppoCliente>111</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <GruppoCliente>111</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+2+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+2+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+2+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+2+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+2+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+2+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+2+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+2+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MT0001</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MC0027</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MC0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0025</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0026</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>LE0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CA0033</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>120</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+4+8+2</Sconto>
+    <DataInizio>2012-02-09T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0036</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0026</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0025</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>LE0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CA0033</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>SF0005</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MC0027</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2012-02-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MC0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2012-02-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MT0001</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2012-02-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2013-02-01T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2013-02-01T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2013-02-01T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>138</GruppoMagazzino>
+    <GruppoCliente>102</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+15+3</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0032</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0036</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0026</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0025</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>LE0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CA0033</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>SF0005</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>RI0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MT0001</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MC0027</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MC0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>18</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>K20014</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10+15</Sconto>
+    <DataInizio>2000-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>SF0019</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10+15</Sconto>
+    <DataInizio>2000-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>SF0016</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10+15</Sconto>
+    <DataInizio>2000-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>106</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto />
+    <DataInizio>2000-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0036</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0026</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0025</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CR0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>LE0003</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>CA0033</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>SF0008</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>SF0005</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MC0027</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MC0028</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo>MT0001</CodiceArticolo>
+    <CodiceCliente />
+    <GruppoMagazzino />
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+18</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+10</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>25+4+15</Sconto>
+    <DataInizio>2013-02-04T00:00:00</DataInizio>
+    <DataFine>2014-01-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>138</GruppoMagazzino>
+    <GruppoCliente>103</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>32+15+3</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+  <STDT_Listini>
+    <CodiceArticolo />
+    <CodiceCliente />
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <GruppoCliente>110</GruppoCliente>
+    <Prezzo>0</Prezzo>
+    <Sconto>5</Sconto>
+    <DataInizio>2011-01-01T00:00:00</DataInizio>
+    <DataFine>2012-12-31T00:00:00</DataFine>
+  </STDT_Listini>
+</ArrayOfSTDT_Listini>

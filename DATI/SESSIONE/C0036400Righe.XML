@@ -1,0 +1,4553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRigaInserimento xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RigaInserimento>
+    <CodiceArticolo>AR0017</CodiceArticolo>
+    <Descrizione>ARANCINO AL SUGO MIGNON FRITTO G. 30/35</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>25.65</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>AR0001</CodiceArticolo>
+    <Descrizione>ARANCINO GR. 100</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>21.475</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>AR0016</CodiceArticolo>
+    <Descrizione>ARANCINO MAXI AL SUGO PREFRITTO GR. 160</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>26.461</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>AR0016O</CodiceArticolo>
+    <Descrizione>ARANCINO MAXI AL SUGO PREFRITTO GR. 160</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>AR0002</CodiceArticolo>
+    <Descrizione>ARANCINO MIGNON GR.20/25</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>26.5</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>AR0018</CodiceArticolo>
+    <Descrizione>ARMONIA CON PERA E CIOCCOLATO G. 85</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>25.8</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BA0032</CodiceArticolo>
+    <Descrizione>BABA'</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>10.26</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0020</CodiceArticolo>
+    <Descrizione>BABA' AL RUM GR.1400</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>16</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0062</CodiceArticolo>
+    <Descrizione>BABA' AL RUM MONOP. G.100</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>13.39</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0045</CodiceArticolo>
+    <Descrizione>BABA' ALLA CASSATA G.1400</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>18.787</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0048</CodiceArticolo>
+    <Descrizione>BABA' CON CREMA DI MELA MONOP. G.120</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>17.922</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BA0035</CodiceArticolo>
+    <Descrizione>BABA' MICRO</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BA0034</CodiceArticolo>
+    <Descrizione>BABA' MIGNON</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>10.505</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0036</CodiceArticolo>
+    <Descrizione>BABY ASSORTITI  PREL.GR.40</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>20.717</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0036O</CodiceArticolo>
+    <Descrizione>BABY ASSORTITI  PREL.GR.40</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0033</CodiceArticolo>
+    <Descrizione>BABY CANNOLO CIOCC.PREL.GR.40</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>19.199</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0034O</CodiceArticolo>
+    <Descrizione>BABY CORNETTO CURVO. ALBIC. PREL. GR.48</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0025</CodiceArticolo>
+    <Descrizione>BABY CROISSANT ALBICOCCA GR.45 PRELIEV.</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>17.389</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0025O</CodiceArticolo>
+    <Descrizione>BABY CROISSANT ALBICOCCA GR.45 PRELIEV.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0027</CodiceArticolo>
+    <Descrizione>BABY CROISSANT CIOCCOLATO GR.45 PRELIEV.</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0027O</CodiceArticolo>
+    <Descrizione>BABY CROISSANT CIOCCOLATO GR.45 PRELIEV.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0028</CodiceArticolo>
+    <Descrizione>BABY CROISSANT CREMA GR.45 PRELIEV.</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>17.389</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0028O</CodiceArticolo>
+    <Descrizione>BABY CROISSANT CREMA GR.45 PRELIEV.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0026</CodiceArticolo>
+    <Descrizione>BABY CROISSANT PREL.GR.40 GLASSATO</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>15.821</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0026S</CodiceArticolo>
+    <Descrizione>BABY CROISSANT PREL.GR.40 SENZA GLASSA</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FA0026</CodiceArticolo>
+    <Descrizione>BABY FAGOTTINO MULTICEREALI AL MIELE GR.</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>LE0003</CodiceArticolo>
+    <Descrizione>BABY LEMONITO PRELIEV.GR.40</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>19.199</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0005</CodiceArticolo>
+    <Descrizione>BABY SFIZIOSA ALLA MELA GR.40</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>19.199</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PABA01</CodiceArticolo>
+    <Descrizione>BAGUETTE GR.280</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>19.333</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PABA01O</CodiceArticolo>
+    <Descrizione>BAGUETTE GR.280</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PABA05</CodiceArticolo>
+    <Descrizione>BAGUETTE MIGNON GR.36</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>12.88</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PABA05O</CodiceArticolo>
+    <Descrizione>BAGUETTE MIGNON GR.36</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PABA06</CodiceArticolo>
+    <Descrizione>BAGUETTE MIGNON MULTICEREALI</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PABA07</CodiceArticolo>
+    <Descrizione>BAGUETTE MIGNON OLIVE E CAPPERI</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BAR002</CodiceArticolo>
+    <Descrizione>BARCHETTE FROLLA MIGNON</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>7.234</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0017</CodiceArticolo>
+    <Descrizione>BASE PIZZA  G. 500</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>36</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0020</CodiceArticolo>
+    <Descrizione>BASE PIZZA POMODORO   G. 305</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>13.59</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0046</CodiceArticolo>
+    <Descrizione>BATIDA CREMA NOCCIOLA E COCCO G.1400</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>18.787</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0013</CodiceArticolo>
+    <Descrizione>BEVIGELATO AL CAFFE'  DA  5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BI0005</CodiceArticolo>
+    <Descrizione>BICO' GR.90</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BI0003</CodiceArticolo>
+    <Descrizione>BISCOTTI CHARLOTTES</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>15.368</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BI0003O</CodiceArticolo>
+    <Descrizione>BISCOTTI CHARLOTTES</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BI0004</CodiceArticolo>
+    <Descrizione>BISCOTTI RUGANTINI NOCCIOLA</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>17.88</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BI0004O</CodiceArticolo>
+    <Descrizione>BISCOTTI RUGANTINI NOCCIOLA</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BI0007</CodiceArticolo>
+    <Descrizione>BISCOTTO AMARENA G. 150</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>15.728</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BI0008</CodiceArticolo>
+    <Descrizione>BISCOTTO AMARENA MIGNON  G. 30</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>14.832</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BO0006</CodiceArticolo>
+    <Descrizione>BOCCONCINI DI MOZZARELLA FRITTI  GR.18/2</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>36.55</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BO0001</CodiceArticolo>
+    <Descrizione>BOCCONCINI DI MOZZARELLA GR.18/20</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PABO15</CodiceArticolo>
+    <Descrizione>BOMBY GRIGLIATO G. 80</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>13.65</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BO0002</CodiceArticolo>
+    <Descrizione>BOSCORE' PRELIEVITATO G.  88</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>29.417</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BO0002O</CodiceArticolo>
+    <Descrizione>BOSCORE' PRELIEVITATO G.  88</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BR0001</CodiceArticolo>
+    <Descrizione>BRIOCHE  G. 110</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>6.979</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BR0001O</CodiceArticolo>
+    <Descrizione>BRIOCHE  G. 110</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BR0002</CodiceArticolo>
+    <Descrizione>BRIOCHE MIGNON  G. 35</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>14.456</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>BR0002O</CodiceArticolo>
+    <Descrizione>BRIOCHE MIGNON  G. 35</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0006</CodiceArticolo>
+    <Descrizione>CALZONCELLI PIZZAIOLA GR.30</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>22.56</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0011</CodiceArticolo>
+    <Descrizione>CALZONE FRITTO MARGHERITA</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>20.4</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0012O</CodiceArticolo>
+    <Descrizione>CALZONE MOZZARELLA E POMODORO GR.130</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0012</CodiceArticolo>
+    <Descrizione>CALZONE MOZZARELLA E POMODORO GR.150</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>23.754</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0015</CodiceArticolo>
+    <Descrizione>CALZONE RICOTTA MOZZARELLA E SALAME GR.1</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PPCA29</CodiceArticolo>
+    <Descrizione>CANNELLONI AL FORNO GR.300</Descrizione>
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <DescrizioneGruppo>PF PIATTI PRONTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0031</CodiceArticolo>
+    <Descrizione>CANNOLI SFOGLIA MIGNON</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>8.52</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0026</CodiceArticolo>
+    <Descrizione>CANNOLI SICILIANI GR. 120</Descrizione>
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRODOTTI SICILIAN</DescrizioneGruppo>
+    <Prezzo>12.607</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0026O</CodiceArticolo>
+    <Descrizione>CANNOLI SICILIANI GR. 120</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0027</CodiceArticolo>
+    <Descrizione>CANNOLI SICILIANI MIGNON GR. 40</Descrizione>
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRODOTTI SICILIAN</DescrizioneGruppo>
+    <Prezzo>13.164</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0032</CodiceArticolo>
+    <Descrizione>CANNOLO CIOCCOLATO PRELIEV.GR.75</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>26.327</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0034</CodiceArticolo>
+    <Descrizione>CANNOLO CREMA E CILIEGIA PREL. GR.85</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>23.1</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0037</CodiceArticolo>
+    <Descrizione>CASSATA SICILIANA GR. 1000</Descrizione>
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRODOTTI SICILIAN</DescrizioneGruppo>
+    <Prezzo>12.607</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0035</CodiceArticolo>
+    <Descrizione>CASSATINE SICILIANE GR. 110</Descrizione>
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRODOTTI SICILIAN</DescrizioneGruppo>
+    <Prezzo>15.005</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0035O</CodiceArticolo>
+    <Descrizione>CASSATINE SICILIANE GR. 110</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CA0036</CodiceArticolo>
+    <Descrizione>CASSATINE SICILIANE MIGNON GR. 40</Descrizione>
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRODOTTI SICILIAN</DescrizioneGruppo>
+    <Prezzo>13.001</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0047</CodiceArticolo>
+    <Descrizione>CHEESECAKE AI FRUTTI ROSSI G.1500</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>12.875</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0001</CodiceArticolo>
+    <Descrizione>CHIACCHIERE</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>11.875</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PACI01</CodiceArticolo>
+    <Descrizione>CIABATTA GR.250</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PACI13</CodiceArticolo>
+    <Descrizione>CIABATTA GR.265</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>6.72</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PACI09</CodiceArticolo>
+    <Descrizione>CIABATTINA GR. 100</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>13.858</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PACI12</CodiceArticolo>
+    <Descrizione>CIABATTINA PREFERITA GR.100 PRET.</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>14.778</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CI0002</CodiceArticolo>
+    <Descrizione>CIAMBELLA MINI GR. 30</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>22.128</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CI0004L</CodiceArticolo>
+    <Descrizione>CIAMBELLA ZUCCH. MAXI  GR. 100</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>13.052</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CI0006</CodiceArticolo>
+    <Descrizione>CIAMBELLA ZUCCHERATA  G. 60</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>11.824</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CI0006N</CodiceArticolo>
+    <Descrizione>CIAMBELLA ZUCCHERATA  G. 60</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CI0006O</CodiceArticolo>
+    <Descrizione>CIAMBELLA ZUCCHERATA  G. 60</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CI0004O</CodiceArticolo>
+    <Descrizione>CIAMBELLA ZUCCHERATA MAXI  GR 100</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>DU0001</CodiceArticolo>
+    <Descrizione>CIOCOPIU' GR. 88</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>30.498</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>K20013</CodiceArticolo>
+    <Descrizione>CODA D'ARAGOSTA GR.100</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>32.924</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>K20015</CodiceArticolo>
+    <Descrizione>CODA D'ARAGOSTA MEDIA GR.50</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>36.002</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>K20016</CodiceArticolo>
+    <Descrizione>CODA D'ARAGOSTA MICRO GR.18/20</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>44.09</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>K20014</CodiceArticolo>
+    <Descrizione>CODA D'ARAGOSTA MIG.GR.28/30</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>36.973</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MVK211</CodiceArticolo>
+    <Descrizione>CODA D'ARAGOSTA MINI. G. 25/27</Descrizione>
+    <GruppoMagazzino>135</GruppoMagazzino>
+    <DescrizioneGruppo>PF MISTER VIVA</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0015O</CodiceArticolo>
+    <Descrizione>CONKY  CIOCCOLATO G. 95</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>3.82</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0015</CodiceArticolo>
+    <Descrizione>CONKY  CREMA NOCCIOLA G. 95</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>25.523</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0013</CodiceArticolo>
+    <Descrizione>CONKY CREMA LATTE PANNA E CIOCCOLATO GR.</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>26.203</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0011</CodiceArticolo>
+    <Descrizione>CONKY CREMA LATTE PANNA GR.95</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>25.214</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0012</CodiceArticolo>
+    <Descrizione>CONKY CREMA LATTE-PANNA-AMAR. GR.100</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>26.203</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0013O</CodiceArticolo>
+    <Descrizione>CONKY CREMA LATTE-PANNA-CIOCCOLATO GR.11</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>3.93</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0007O</CodiceArticolo>
+    <Descrizione>CONO MARGHERITA  G. 140</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PM0005</CodiceArticolo>
+    <Descrizione>CORNET. S/GLASSA MISTI</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PM0001</CodiceArticolo>
+    <Descrizione>CORNET. SUPERFARCITI MISTI GR. 95</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0038</CodiceArticolo>
+    <Descrizione>CORNETTO ART.ALBIC.PREL.GR.66</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0035</CodiceArticolo>
+    <Descrizione>CORNETTO ARTIG. VUOTO GR.40</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0040</CodiceArticolo>
+    <Descrizione>CORNETTO ARTIG. VUOTO GR.50</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0041</CodiceArticolo>
+    <Descrizione>CORNETTO ARTIG.CREMA PRELIEV. GR.48</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0005</CodiceArticolo>
+    <Descrizione>CORNETTO CIOCCOLATO GR.70 ART.</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0022</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO  CIOCC.PREL.GR.70 GLASSAT</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>22.67</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0020S</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO ALBIC.PREL.GR.70</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>20.563</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0020</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO ALBIC.PREL.GR.70 GLASSATO</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>21.393</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0048P</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO ALBICOC. G. 77 PROFESSION</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>28.807</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0048PO</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO ALBICOC. G. 77 PROFESSION</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0021S</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO CREMA PREL.GR.70</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>20.563</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0021</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO CREMA PREL.GR.70 GLASSATO</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>21.393</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0047P</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO VUOTO G. 70 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>30.702</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0023S</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO VUOTO PREL.GR.60</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>19.03</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0023</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO VUOTO PREL.GR.60 GLASSATO</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>19.86</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0022S</CodiceArticolo>
+    <Descrizione>CORNETTO CURVO.CIOCC.PREL.GR.70</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>21.649</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0020</CodiceArticolo>
+    <Descrizione>CORNETTO DRIT. ALBICOCCA SUPERFARCITO G.</Descrizione>
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <DescrizioneGruppo>PF SUPERFARCITI</DescrizioneGruppo>
+    <Prezzo>23.092</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0020O</CodiceArticolo>
+    <Descrizione>CORNETTO DRIT. ALBICOCCA SUPERFARCITO G.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0022</CodiceArticolo>
+    <Descrizione>CORNETTO DRIT. CIOCCOLATO SUPERFARCITO G</Descrizione>
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <DescrizioneGruppo>PF SUPERFARCITI</DescrizioneGruppo>
+    <Prezzo>26.067</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0022O</CodiceArticolo>
+    <Descrizione>CORNETTO DRIT. CIOCCOLATO SUPERFARCITO G</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0024</CodiceArticolo>
+    <Descrizione>CORNETTO DRIT. CREMA AMARENA SUPERFARCIT</Descrizione>
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <DescrizioneGruppo>PF SUPERFARCITI</DescrizioneGruppo>
+    <Prezzo>26.121</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0024O</CodiceArticolo>
+    <Descrizione>CORNETTO DRIT. CREMA AMARENA SUPERFARCIT</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>4.52</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0021</CodiceArticolo>
+    <Descrizione>CORNETTO DRIT. CREMA SUPERFARCITO G. 95</Descrizione>
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <DescrizioneGruppo>PF SUPERFARCITI</DescrizioneGruppo>
+    <Prezzo>23.417</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0021O</CodiceArticolo>
+    <Descrizione>CORNETTO DRIT. CREMA SUPERFARCITO G. 95</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RCO0020</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO ALBICOCCA PREL. G. 60</Descrizione>
+    <GruppoMagazzino>138</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA RETAIL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RCO0022</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO CIOCCOLATO PREL. G. 60</Descrizione>
+    <GruppoMagazzino>138</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA RETAIL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RCO0021</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO CREMA PREL. G. 60</Descrizione>
+    <GruppoMagazzino>138</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA RETAIL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0006</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO INTEGRALE GR.60</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0039</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO INTEGRALE MIELE GR.65</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0039O</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO INTEGRALE MIELE GR.65</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RCO0024</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO INTEGRALE VUOTO PREL G.</Descrizione>
+    <GruppoMagazzino>138</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA RETAIL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0050</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO MULTIC.  AL MIELE PREL.</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>22.947</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RCO0037</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO MULTICER. FRUT. BOSCO PR</Descrizione>
+    <GruppoMagazzino>138</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA RETAIL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RCO0023</CodiceArticolo>
+    <Descrizione>CORNETTO DRITTO VUOTO PREL. G. 55</Descrizione>
+    <GruppoMagazzino>138</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA RETAIL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0024</CodiceArticolo>
+    <Descrizione>CORNETTO INT. MIELE PREL.GR.75</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>22.159</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0050O</CodiceArticolo>
+    <Descrizione>CORNETTO MULTICEREALI AL MIELE       PRE</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0050N</CodiceArticolo>
+    <Descrizione>CORNETTO MULTICEREALI AL MIELE PREL. GR.</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0037</CodiceArticolo>
+    <Descrizione>CORNETTO MULTICEREALI FRUTTI DI BOSCO PR</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>21.308</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0036</CodiceArticolo>
+    <Descrizione>CORNETTO MULTICEREALI VUOTO PREL. GR.65</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>18.874</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0043</CodiceArticolo>
+    <Descrizione>CORNETTO REGAL ALBICICOCCA GR.82</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>25.985</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0043N</CodiceArticolo>
+    <Descrizione>CORNETTO REGAL ALBICICOCCA GR.82</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>25.985</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0043O</CodiceArticolo>
+    <Descrizione>CORNETTO REGAL ALBICICOCCA GR.82</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0042</CodiceArticolo>
+    <Descrizione>CORNETTO REGAL VUOTO GR.70</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>22.826</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0042O</CodiceArticolo>
+    <Descrizione>CORNETTO REGAL VUOTO GR.70</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0032</CodiceArticolo>
+    <Descrizione>CORNETTO SALATO PREL. GR.65</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>23</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0004</CodiceArticolo>
+    <Descrizione>CORNETTO VUOTO GR.60 ART.</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>24.638</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0032</CodiceArticolo>
+    <Descrizione>CROCCHE GR. 100</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>22.105</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0034</CodiceArticolo>
+    <Descrizione>CROCCHE MIGNON GR.20/25</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>27.27</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0004</CodiceArticolo>
+    <Descrizione>CROISSANT CURV.VUOT.GR.60</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0011PO</CodiceArticolo>
+    <Descrizione>CROISSANT DR. ALBICOCCA GR.65 PROFESSION</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0011P</CodiceArticolo>
+    <Descrizione>CROISSANT DR. ALBICOCCA GR.67 PROFESSION</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0013P</CodiceArticolo>
+    <Descrizione>CROISSANT DR. VUOTO GR.60 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>29.587</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0013PO</CodiceArticolo>
+    <Descrizione>CROISSANT DR. VUOTO GR.65 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0025</CodiceArticolo>
+    <Descrizione>CROISSANT DRIT. BURRO SUPERF. MANDORLE G</Descrizione>
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <DescrizioneGruppo>PF SUPERFARCITI</DescrizioneGruppo>
+    <Prezzo>26.121</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CS0025O</CodiceArticolo>
+    <Descrizione>CROISSANT DRIT. BURRO SUPERF. MANDORLE G</Descrizione>
+    <GruppoMagazzino>133</GruppoMagazzino>
+    <DescrizioneGruppo>PF SUPERFARCITI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0023</CodiceArticolo>
+    <Descrizione>CROISSANT DRIT.ALBIC.PR.GR.65</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0003</CodiceArticolo>
+    <Descrizione>CROISSANT DRIT.VUOT.GR.40  HOTEL</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>23.197</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0005</CodiceArticolo>
+    <Descrizione>CROISSANT DRIT.VUOT.GR.60</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0021S</CodiceArticolo>
+    <Descrizione>CROISSANT DRIT.VUOT.PR.GR.60</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0021</CodiceArticolo>
+    <Descrizione>CROISSANT DRIT.VUOT.PR.GR.60 GLASSATO</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>21.486</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0002</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO ALBICOCCA G. 45</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0011O</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO ALBICOCCA GR.65</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CB0023</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO BURRO (22,5%) GR. 60 PR</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>24.276</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CB0023O</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO BURRO (24%) GR. 60 PREL</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0020</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO BURRO ALLE MANDORLE  G.</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0020O</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO BURRO ALLE MANDORLE  G.</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0046</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO VUOTO REGAL GR. 70</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>22.697</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0046N</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO VUOTO REGAL GR. 70</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0046O</CodiceArticolo>
+    <Descrizione>CROISSANT DRITTO VUOTO REGAL GR. 70</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0031O</CodiceArticolo>
+    <Descrizione>CROISSANT RUSTICO  PRELIEV. GR.65</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0037</CodiceArticolo>
+    <Descrizione>CROISSANT RUSTICO  VUOTO AI CEREALI. GR.</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>18.346</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0037O</CodiceArticolo>
+    <Descrizione>CROISSANT RUSTICO  VUOTO AI CEREALI. GR.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0006</CodiceArticolo>
+    <Descrizione>CROISSANT RUSTICO GR. 70 PRELIEV.</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0029</CodiceArticolo>
+    <Descrizione>CROISSANT RUSTICO MIGNON PRELIEV. GR.35</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0029O</CodiceArticolo>
+    <Descrizione>CROISSANT RUSTICO MIGNON PRELIEV. GR.35</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0012</CodiceArticolo>
+    <Descrizione>CUORE DI CIOCC. MONOP. GR.100</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>15.45</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CU0004</CodiceArticolo>
+    <Descrizione>CUORE MIGNON CREMA NOCCIOLA GR. 25</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>23.563</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CU0004O</CodiceArticolo>
+    <Descrizione>CUORE MIGNON CREMA NOCCIOLA GR. 25</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CU0005</CodiceArticolo>
+    <Descrizione>CUORE MIGNON PANNA LATTE GR. 25</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>22.533</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CU0005O</CodiceArticolo>
+    <Descrizione>CUORE MIGNON PANNA LATTE GR. 25</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0015</CodiceArticolo>
+    <Descrizione>DELIZIA  LIMONE MONOP. G. 100</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>8.195</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0018</CodiceArticolo>
+    <Descrizione>DELIZIA AL CAFFE' GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0014</CodiceArticolo>
+    <Descrizione>DELIZIA AL CAFFE' MONOP. GR.100</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>8.195</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0038</CodiceArticolo>
+    <Descrizione>DELIZIA LIMONE GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PABA02</CodiceArticolo>
+    <Descrizione>DEMIBAGUETTE GR.150</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>25.821</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>DO0002</CodiceArticolo>
+    <Descrizione>DONUT ARCOBALENO GR. 56</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>14.165</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>DO0001</CodiceArticolo>
+    <Descrizione>DONUT CHOC GR. 75</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>18.911</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>DO0001O</CodiceArticolo>
+    <Descrizione>DONUT CHOC GR. 75</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>DO0004</CodiceArticolo>
+    <Descrizione>DONUT FRAGOLA GR. 56</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>18.886</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>DO0003</CodiceArticolo>
+    <Descrizione>DONUT MORO GR. 56</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>14.165</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FA0020</CodiceArticolo>
+    <Descrizione>FAGOTT.GOCCE CIOCCOL.PR.GR.75</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>25.74</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PM0006</CodiceArticolo>
+    <Descrizione>FAGOTTINI MISTI</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FA0008O</CodiceArticolo>
+    <Descrizione>FAGOTTINO ALBICOCCA GR.70</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FB0013</CodiceArticolo>
+    <Descrizione>FAGOTTINO BURRO AL CIOCCOLATO GR.68</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FB0023</CodiceArticolo>
+    <Descrizione>FAGOTTINO BURRO CIOCC.GR.80 PREL.</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>29.775</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FA0023</CodiceArticolo>
+    <Descrizione>FAGOTTINO CIOCC.PREL. GR.80</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>25.74</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FA0012</CodiceArticolo>
+    <Descrizione>FAGOTTINO VUOTO GR.60</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FA0025</CodiceArticolo>
+    <Descrizione>FAGOTTINOPIU'CIOCC. PRELIEV. GR.90</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>25.856</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0032O</CodiceArticolo>
+    <Descrizione>FAGOTTO SFOGLIA CON WURSTEL G. 90</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAFO16</CodiceArticolo>
+    <Descrizione>FOCACCIA ARTIGIANALE  G. 400</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>25.553</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FO0006</CodiceArticolo>
+    <Descrizione>FOCACCIA CAPRESE GR.360</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>27.54</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FO0003O</CodiceArticolo>
+    <Descrizione>FOCACCIA FUME' GR.350</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAFO13</CodiceArticolo>
+    <Descrizione>FOCACCIA GENOVESE ALL'OLIO 30X40 GR.700</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FO0001</CodiceArticolo>
+    <Descrizione>FOCACCIA RUSTICA GR. 360</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>26.616</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FO0010</CodiceArticolo>
+    <Descrizione>FOCACCIA SALSICCIA E FRIARIELLI G. 420</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>29.376</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAFO12</CodiceArticolo>
+    <Descrizione>FOCACCINA TONDA OLIO PRETAGLIATA</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>15.523</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0009</CodiceArticolo>
+    <Descrizione>FRAGOLOTTO GR 100</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>14.276</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0009O</CodiceArticolo>
+    <Descrizione>FRAGOLOTTO GR 100</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FR0005</CodiceArticolo>
+    <Descrizione>FRITTATINA GR. 130</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>22.459</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FR0009</CodiceArticolo>
+    <Descrizione>FRITTATINA MAXI DI SPAGHETTI FRITTA G.16</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>26.825</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FR0010</CodiceArticolo>
+    <Descrizione>FRITTATINA MIGNON DI SPAGHETTI FRITTA G.</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>32.375</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FR0006</CodiceArticolo>
+    <Descrizione>FRITTATINA MIGNON GR. 20/25</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FR0003</CodiceArticolo>
+    <Descrizione>FRITTELLE AL SAPORE DI MARE</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FR0002</CodiceArticolo>
+    <Descrizione>FRUSTA SORRENTINA GR.150</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>18.062</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0008</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO CAFFE'   5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0007</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO CIOCCOLATO   5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0005</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO FRAGOLA   5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0003</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO LIMONE  5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0006</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO NOCCIOLA   5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0011</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO NOCCIUTELLA   5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0009</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO PANNA   5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0012</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO PARFAIT DI MANDORLE   5</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0010</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO SETTEVELI    5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GE0004</CodiceArticolo>
+    <Descrizione>GELATO MANTECATO VANIGLIA   5 LT</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GI0002</CodiceArticolo>
+    <Descrizione>GIRELLA PRELIEV.   GR.100</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>22.08</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GI0002O</CodiceArticolo>
+    <Descrizione>GIRELLA PRELIEV. GR.70</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0010P</CodiceArticolo>
+    <Descrizione>GRAN CORN. CIOCCOL. GR90 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0010PO</CodiceArticolo>
+    <Descrizione>GRAN CORN. CIOCCOL. GR90 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0009P</CodiceArticolo>
+    <Descrizione>GRAN CORN. CREMA GR.90 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0009PO</CodiceArticolo>
+    <Descrizione>GRAN CORN. CREMA GR.90 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0020S</CodiceArticolo>
+    <Descrizione>GRAN CORN. CURVO ALBIC.PREL.GR.90</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>19.871</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0020</CodiceArticolo>
+    <Descrizione>GRAN CORN. CURVO ALBIC.PREL.GR.90 GLASSA</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>20.406</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0022S</CodiceArticolo>
+    <Descrizione>GRAN CORN. CURVO CIOCC.PREL.GR.90</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>20.888</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0021S</CodiceArticolo>
+    <Descrizione>GRAN CORN. CURVO CREMA PREL.GR.90</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>20.085</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0021</CodiceArticolo>
+    <Descrizione>GRAN CORN. CURVO CREMA PREL.GR.90 GLASSA</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>20.674</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0023</CodiceArticolo>
+    <Descrizione>GRAN CORN. CURVO VUOTO PREL.GR.75 GLASSA</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>18.21</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0013</CodiceArticolo>
+    <Descrizione>GRAN CORN. VUOTO GR.80 ART.</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>26.533</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0013O</CodiceArticolo>
+    <Descrizione>GRAN CORN. VUOTO GR.80 ART.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>2.38</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0013P</CodiceArticolo>
+    <Descrizione>GRAN CORN. VUOTO GR.80 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>29.186</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0013PO</CodiceArticolo>
+    <Descrizione>GRAN CORN. VUOTO GR.80 PROFESSIONAL</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0023O</CodiceArticolo>
+    <Descrizione>GRAN CORN.ART.VUOTO PREL.GR.75</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>3.15</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0022</CodiceArticolo>
+    <Descrizione>GRAN CORN.CURVO CIOCC.PREL.GR.90 GLASSAT</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>21.96</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0024</CodiceArticolo>
+    <Descrizione>GRAN CORN.CURVO CREM/AMAR.PRE.GR90 GLASS</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>23.036</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0023S</CodiceArticolo>
+    <Descrizione>GRAN CORN.CURVO VUOTO PREL.GR.75</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>17.621</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PM0004</CodiceArticolo>
+    <Descrizione>GRAN CORNET. GLASS. MISTI</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PM0003</CodiceArticolo>
+    <Descrizione>GRAN CORNET. REGAL MISTI GR.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0021O</CodiceArticolo>
+    <Descrizione>GRAN CORNETTO ART.CREMA PREL.GR.90</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0027</CodiceArticolo>
+    <Descrizione>GRAN CORNETTO REGAL ALBICOCCA GR.92</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>23.903</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0028</CodiceArticolo>
+    <Descrizione>GRAN CORNETTO REGAL ALLA CREMA GR.92</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>24.606</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0028O</CodiceArticolo>
+    <Descrizione>GRAN CORNETTO REGAL ALLA CREMA GR.92</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0029</CodiceArticolo>
+    <Descrizione>GRAN CORNETTO REGAL CREMA NOCC. E CACAO</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>25.742</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0029O</CodiceArticolo>
+    <Descrizione>GRAN CORNETTO REGAL CREMA NOCCIOLE E CAC</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0026</CodiceArticolo>
+    <Descrizione>GRAN CORNETTO REGAL VUOTO GR.80</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>20.821</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0026O</CodiceArticolo>
+    <Descrizione>GRAN CORNETTO REGAL VUOTO GR.80</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>3.6</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0030</CodiceArticolo>
+    <Descrizione>GRAN CROISSANT REGAL DRITTO VUOTO G. 80</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0030O</CodiceArticolo>
+    <Descrizione>GRAN CROISSANT REGAL DRITTO VUOTO G. 80</Descrizione>
+    <GruppoMagazzino>124</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA REGAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FA0027</CodiceArticolo>
+    <Descrizione>GRAN FAGOTTO CREMA NOCCIOLA E CACAO MAGR</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>17.971</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FA0027O</CodiceArticolo>
+    <Descrizione>GRAN FAGOTTO CREMA NOCCIOLA E CACAO MAGR</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0024O</CodiceArticolo>
+    <Descrizione>GRAN. CORN.ART.CREMA-AM PREL GR.90</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAHA21</CodiceArticolo>
+    <Descrizione>HAMBURGER SESAMO</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>12.159</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAHA21O</CodiceArticolo>
+    <Descrizione>HAMBURGER SESAMO</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAHO22</CodiceArticolo>
+    <Descrizione>HOT-DOG</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>15.082</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAHO22O</CodiceArticolo>
+    <Descrizione>HOT-DOG</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>IN0001</CodiceArticolo>
+    <Descrizione>INTRECCIO BURRO CREMA /PEPITE CIOCC. G.1</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>31.294</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>IN0001O</CodiceArticolo>
+    <Descrizione>INTRECCIO BURRO CREMA E PEPITE DI CIOC.</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0016O</CodiceArticolo>
+    <Descrizione>INTRECCIO CREMA G. 65</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>KR0011</CodiceArticolo>
+    <Descrizione>KRAPFEN ALBIC. ZUCCH. G.80</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>8</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>KR0011O</CodiceArticolo>
+    <Descrizione>KRAPFEN ALBICOCCA ZUCCHERATO G. 80</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>KR0008</CodiceArticolo>
+    <Descrizione>KRAPFEN CIOCCOLATO</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>9.319</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>KR0006</CodiceArticolo>
+    <Descrizione>KRAPFEN CREMA</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>8.578</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>KR0010O</CodiceArticolo>
+    <Descrizione>KRAPFEN MIGNON CREMA  G. 25</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>KR0010</CodiceArticolo>
+    <Descrizione>KRAPFEN MIGNON CREMA G. 25</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>8.328</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>KR0009</CodiceArticolo>
+    <Descrizione>KRAPFEN MINI VUOTO GR.15</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>20.215</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>KR0007</CodiceArticolo>
+    <Descrizione>KRAPFEN VUOTO GR. 55</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>7.391</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PPLA27</CodiceArticolo>
+    <Descrizione>LASAGNE AL FORNO GR. 1000</Descrizione>
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <DescrizioneGruppo>PF PIATTI PRONTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PPLA06</CodiceArticolo>
+    <Descrizione>LASAGNE ALLA BOLOGNESE GR.300</Descrizione>
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <DescrizioneGruppo>PF PIATTI PRONTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PPLA28</CodiceArticolo>
+    <Descrizione>LASAGNE ALLA BOSCAIOLA  GR.1000</Descrizione>
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <DescrizioneGruppo>PF PIATTI PRONTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PPLA07</CodiceArticolo>
+    <Descrizione>LASAGNE ALLA BOSCAIOLA  GR.300</Descrizione>
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <DescrizioneGruppo>PF PIATTI PRONTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>LE0002</CodiceArticolo>
+    <Descrizione>LEMONITO GR. 75</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>25.091</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0009</CodiceArticolo>
+    <Descrizione>LUMACHINA CIOCCOLATO GR.90</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>25.523</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0009O</CodiceArticolo>
+    <Descrizione>LUMACHINA CIOCCOLATO GR.90</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>3.82</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0010</CodiceArticolo>
+    <Descrizione>LUMACHINA VUOTA GR.75</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>18.911</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>LU0002</CodiceArticolo>
+    <Descrizione>LUNOTTA SFOGLIA MELA GR.80</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>19.689</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PPMA08</CodiceArticolo>
+    <Descrizione>MACCHERONCINI SPECK E RUCOLA G. 300</Descrizione>
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <DescrizioneGruppo>PF PIATTI PRONTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0025S</CodiceArticolo>
+    <Descrizione>MAXI  CORNETTO CURVO VUOTO PREL. G. 95</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>18.447</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>GC0025SO</CodiceArticolo>
+    <Descrizione>MAXI  CORNETTO CURVO VUOTO PREL. G. 95</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0018</CodiceArticolo>
+    <Descrizione>MAXI CORNETTO CURVO VUOTO G. 120</Descrizione>
+    <GruppoMagazzino>101</GruppoMagazzino>
+    <DescrizioneGruppo>PF DA LIEVITARE</DescrizioneGruppo>
+    <Prezzo>29.072</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CO0017P</CodiceArticolo>
+    <Descrizione>MAXI CORNETTO CURVO VUOTO G.100 PROFESSI</Descrizione>
+    <GruppoMagazzino>136</GruppoMagazzino>
+    <DescrizioneGruppo>PF PROFESSIONAL</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0022</CodiceArticolo>
+    <Descrizione>MAXI CROISSANT BURRO AL CIOCC. GR. 85 PR</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MF0020</CodiceArticolo>
+    <Descrizione>MAXI FAGOTTINO BURRO CIOCCOLATO GR.80 PR</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>ME0001</CodiceArticolo>
+    <Descrizione>MENEGHINO ALLA CREMA   G. 85</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>24.051</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>ME0001O</CodiceArticolo>
+    <Descrizione>MENEGHINO ALLA CREMA   G. 85</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MI0018</CodiceArticolo>
+    <Descrizione>MIDI CREMA AMARENA GR. 110</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>19.375</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MI0024O</CodiceArticolo>
+    <Descrizione>MINI CROISSANT AL BURRO GR.20</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MI0024</CodiceArticolo>
+    <Descrizione>MINI CROISSANT AL BURRO GR.25</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>28</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0026O</CodiceArticolo>
+    <Descrizione>MINI CROISSANT AL BURRO GR.30 PRELIEV.</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0025</CodiceArticolo>
+    <Descrizione>MINI CROISSANT BURRO VUOTO PREL. GR.25</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>43.146</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0001</CodiceArticolo>
+    <Descrizione>MINI CROISSANT CON WURSTEL  G. 37</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>36.697</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0001O</CodiceArticolo>
+    <Descrizione>MINI CROISSANT CON WURSTEL  G. 37</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0002</CodiceArticolo>
+    <Descrizione>MINI CROISSANT PROSCIUTTO E FORMAG.  G.</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>46.263</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0002O</CodiceArticolo>
+    <Descrizione>MINI CROISSANT PROSCIUTTO E FORMAG.  G.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0028</CodiceArticolo>
+    <Descrizione>MINI CROISSANT RUSTICO VUOTO AI CEREALI</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>27.254</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0028O</CodiceArticolo>
+    <Descrizione>MINI CROISSANT RUSTICO VUOTO AI CEREALI</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0027O</CodiceArticolo>
+    <Descrizione>MINI CROISSANT VUOTO GR. 25</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MC0027</CodiceArticolo>
+    <Descrizione>MINI CROISSANT VUOTO GR. 30</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>22.8</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MF0023</CodiceArticolo>
+    <Descrizione>MINI FAGOTTINO BURRO CIOCC. PREL. GR.25</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>31.65</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MG0002O</CodiceArticolo>
+    <Descrizione>MINI GIRELLA BURRO CON UVETTA GR.35 PREL</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MG0002</CodiceArticolo>
+    <Descrizione>MINI GIRELLA BURRO UVETTA PREL. GR.30</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>35.2</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MU0009</CodiceArticolo>
+    <Descrizione>MINI MUFFIN DOPPIO CIOCCOLATO  G. 15</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>23.04</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MU0008</CodiceArticolo>
+    <Descrizione>MINI MUFFIN VANIGLIA  G. 15</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>23.04</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MI0011</CodiceArticolo>
+    <Descrizione>MISTO ALL'ITALIANA GR.20/25</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>29.975</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MI0019</CodiceArticolo>
+    <Descrizione>MISTO MEDITERRANEO PREFR. G. 25</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>36.488</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MI0019O</CodiceArticolo>
+    <Descrizione>MISTO MEDITERRANEO PREFRITTO G. 25</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>AR0011</CodiceArticolo>
+    <Descrizione>MIX ARANCINI MIGNON   25 G.</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>FR0004</CodiceArticolo>
+    <Descrizione>MIX DI FRITTELLE    G. 20/25</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>16.068</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAMK01</CodiceArticolo>
+    <Descrizione>MIX MINI KAISER</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>19.95</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MT0001</CodiceArticolo>
+    <Descrizione>MIX MINI TENTAZIONE AL BURRO  G. 30</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>22.828</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0021</CodiceArticolo>
+    <Descrizione>MIX PANZEROTTINI FRITTI  25g</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MU0001</CodiceArticolo>
+    <Descrizione>MUFFIN ALLO YOGURT GR.70</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MU0007</CodiceArticolo>
+    <Descrizione>MUFFIN TULIPAN ALBICOCCA GR. 110</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>13.071</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MU0005</CodiceArticolo>
+    <Descrizione>MUFFIN TULIPAN DOPPIO CIOCC. GR. 110</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>14.304</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MU0006</CodiceArticolo>
+    <Descrizione>MUFFIN TULIPAN LAMPONE GR. 110</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>14.08</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>OL0003</CodiceArticolo>
+    <Descrizione>OLIVE ALL'ASCOLANA GR.18/20</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PPOR09</CodiceArticolo>
+    <Descrizione>ORECCHIETTE CON CIME DI RAPA G. 300</Descrizione>
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <DescrizioneGruppo>PF PIATTI PRONTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PB0001</CodiceArticolo>
+    <Descrizione>PAN BLANC GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0001</CodiceArticolo>
+    <Descrizione>PAN DI SPAGNA A BLOCCO  G. 1.500</Descrizione>
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SEMILAVORATI</DescrizioneGruppo>
+    <Prezzo>25.095</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0006</CodiceArticolo>
+    <Descrizione>PANINO NAPOLETANO GR.150</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>24.102</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0014</CodiceArticolo>
+    <Descrizione>PANINO NAPOLETANO MIGNON</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>24.349</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0035</CodiceArticolo>
+    <Descrizione>PANZAROTTO MAXI CON MOZZ. PREFRITTO  GR.</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>26.626</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CR0039</CodiceArticolo>
+    <Descrizione>PANZAROTTO MIGNON  FRITTO  G. 20/25</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>24.66</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0009</CodiceArticolo>
+    <Descrizione>PANZEROTTINI FRITTI MOZZ.E POMODORO</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>23.12</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0010</CodiceArticolo>
+    <Descrizione>PANZEROTTINI FRITTI RICOTTA E SALAME G.</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>12.24</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PM0002</CodiceArticolo>
+    <Descrizione>PAST.CR-AM./BISC. AM./BRIOCHE</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0017</CodiceArticolo>
+    <Descrizione>PASTA SFOGLIA CRUDA LAMINATA  G. 900</Descrizione>
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SEMILAVORATI</DescrizioneGruppo>
+    <Prezzo>27.5</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0012</CodiceArticolo>
+    <Descrizione>PASTA SFOGLIA GR.1000</Descrizione>
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SEMILAVORATI</DescrizioneGruppo>
+    <Prezzo>27.707</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0034</CodiceArticolo>
+    <Descrizione>PASTICETTO CREMA E AMAR. GR. 110</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>22.324</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0034O</CodiceArticolo>
+    <Descrizione>PASTICETTO CREMA E AMARENA G. 110</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0008</CodiceArticolo>
+    <Descrizione>PASTIERA NAPOLET. KG. 1.200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>13.381</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0030</CodiceArticolo>
+    <Descrizione>PASTIERINA GR. 100</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>34.608</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0030O</CodiceArticolo>
+    <Descrizione>PASTIERINA GR. 100</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAPE04</CodiceArticolo>
+    <Descrizione>PETIT PAIN GR. 52</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>13.542</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAPI18</CodiceArticolo>
+    <Descrizione>PIADINA CM 27</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>24.864</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PAPI18O</CodiceArticolo>
+    <Descrizione>PIADINA CM 27</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0004</CodiceArticolo>
+    <Descrizione>PIZZA MARGHERITA  G. 398</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>25.92</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0019</CodiceArticolo>
+    <Descrizione>PIZZA PARIGINA GR.1800</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>23.443</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0019O</CodiceArticolo>
+    <Descrizione>PIZZA PARIGINA GR.1800</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0018</CodiceArticolo>
+    <Descrizione>PIZZETTA MARGHERITA  GR.160</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>12.959</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0013O</CodiceArticolo>
+    <Descrizione>PIZZETTA MARGHERITA 150 G.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0014</CodiceArticolo>
+    <Descrizione>PIZZETTA MARGHERITA MIGNON</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>17.675</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0018O</CodiceArticolo>
+    <Descrizione>PIZZETTA NAPOLI GR.160</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0015</CodiceArticolo>
+    <Descrizione>PIZZETTA SFOGL.MIGNON GR.20/22</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>20.155</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0019</CodiceArticolo>
+    <Descrizione>PIZZETTA SFOGLIA AL BURRO POMOD. FORM.</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>27.192</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PI0019O</CodiceArticolo>
+    <Descrizione>PIZZETTA SFOGLIA AL BURRO POMOD. FORM.</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>POC006</CodiceArticolo>
+    <Descrizione>POCHE CIOCCOCREMA</Descrizione>
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SEMILAVORATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PO0001</CodiceArticolo>
+    <Descrizione>POLPETTINA DI MELANZANA</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>31.99</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0009</CodiceArticolo>
+    <Descrizione>PROFITTEROL CIOCC. GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>9.548</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0027</CodiceArticolo>
+    <Descrizione>RICOTTA E PERA MONOP. GR.100</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>8.343</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RI0003</CodiceArticolo>
+    <Descrizione>RICOTTA ZUCCHERATA BADIACHIARA</Descrizione>
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SEMILAVORATI</DescrizioneGruppo>
+    <Prezzo>34.84</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PARI01</CodiceArticolo>
+    <Descrizione>RIFILATO GROSSO</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PPRI12</CodiceArticolo>
+    <Descrizione>RISOTTO AI FUNGHI PORCINI G. 300</Descrizione>
+    <GruppoMagazzino>111</GruppoMagazzino>
+    <DescrizioneGruppo>PF PIATTI PRONTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RO0005O</CodiceArticolo>
+    <Descrizione>ROLLER CIOCCOLATO 70 g</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RO0002</CodiceArticolo>
+    <Descrizione>ROLLER CREMA GR. 70</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>15.898</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RO0004</CodiceArticolo>
+    <Descrizione>ROLLINI RICOTTA  GR. 120</Descrizione>
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRODOTTI SICILIAN</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PA0003</CodiceArticolo>
+    <Descrizione>RULLE' DI PAN DI SPAGNA  G. 400</Descrizione>
+    <GruppoMagazzino>125</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SEMILAVORATI</DescrizioneGruppo>
+    <Prezzo>34.5</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0031</CodiceArticolo>
+    <Descrizione>RUSTICINI BUFFET 6 GUSTI G. 20</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>26.52</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0028</CodiceArticolo>
+    <Descrizione>SALATINI 10 GUSTI  g 20</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>29.705</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0028O</CodiceArticolo>
+    <Descrizione>SALATINI 10 GUSTI  g 20</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0023</CodiceArticolo>
+    <Descrizione>SALATINI 4 GUSTI GR.18/20</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>31.567</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0021</CodiceArticolo>
+    <Descrizione>SALATINI 6 GUSTI GR.18/20</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>33.533</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0025</CodiceArticolo>
+    <Descrizione>SALATINI 8 GUSTI GR.12/14</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>24.897</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0025O</CodiceArticolo>
+    <Descrizione>SALATINI 8 GUSTI GR.12/14</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0030</CodiceArticolo>
+    <Descrizione>SALATINI BREAK 3 GUSTI ASSORTITI G.20</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>14.72</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>RU0029</CodiceArticolo>
+    <Descrizione>SALATINI WURSTEL  G. 20/24</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>12.772</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SA0009</CodiceArticolo>
+    <Descrizione>SALTIMBOCCA 120 g</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>9.282</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SA0009O</CodiceArticolo>
+    <Descrizione>SALTIMBOCCA 120 g</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SA0033</CodiceArticolo>
+    <Descrizione>SAVARE'</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>11.4</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SA0035</CodiceArticolo>
+    <Descrizione>SAVARE' MIGNON</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>10.505</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0007</CodiceArticolo>
+    <Descrizione>SFILATINO DELICATO GR.135</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>22.207</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0006</CodiceArticolo>
+    <Descrizione>SFILATINO MEXICO GR.135</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>23.752</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0002</CodiceArticolo>
+    <Descrizione>SFIZIOSA ALLA MELA GR.80</Descrizione>
+    <GruppoMagazzino>104</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRELIEVITATI</DescrizioneGruppo>
+    <Prezzo>26.281</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0016</CodiceArticolo>
+    <Descrizione>SFOGL.NAP.MIGNON GR.30</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>38.31</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0019</CodiceArticolo>
+    <Descrizione>SFOGLIAT.FROLLA MIGNON GR.30</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>36.348</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0022</CodiceArticolo>
+    <Descrizione>SFOGLIATELLA FROLLA GR.125</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>25.384</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0011</CodiceArticolo>
+    <Descrizione>SFOGLIATELLA NAP.MICRO GR20/22</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>44.09</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0017</CodiceArticolo>
+    <Descrizione>SFOGLIATELLA NAP.S.ROSA GR.150</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>32.067</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0015</CodiceArticolo>
+    <Descrizione>SFOGLIATELLA NAPOL.GR110</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>33.485</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>MVSF17</CodiceArticolo>
+    <Descrizione>SFOGLIATELLA NAPOL.S. ROSA G.140</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>25.2</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SF0023</CodiceArticolo>
+    <Descrizione>SFOGLIATELLA RUSTICA MIGNON</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>44.039</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SP0003</CodiceArticolo>
+    <Descrizione>SPECK E PROVOLA IN CARROZZA PREFRITTO 45</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>ST0001</CodiceArticolo>
+    <Descrizione>STRUDEL GR.80</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>19.343</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SU0004O</CodiceArticolo>
+    <Descrizione>SUBLIME GR. 80</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SU0004</CodiceArticolo>
+    <Descrizione>SUBLIME GR. 90</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>19.469</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SB0020</CodiceArticolo>
+    <Descrizione>SUPER CROISSANT BURRO ALBICCOCCA GR.76 P</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>SB0023</CodiceArticolo>
+    <Descrizione>SUPER CROISSANT DRITTO BURRO GR.68 PREL.</Descrizione>
+    <GruppoMagazzino>103</GruppoMagazzino>
+    <DescrizioneGruppo>PF LINEA BURRO</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0033</CodiceArticolo>
+    <Descrizione>TAPPI  GRANDI  G 55/60</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>12.917</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0032</CodiceArticolo>
+    <Descrizione>TAPPI  S.ROSA GR.65/70</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>15.943</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0030</CodiceArticolo>
+    <Descrizione>TAPPI PER SFOGLIAT.NAP.50 GRAMMI</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>15.444</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0028</CodiceArticolo>
+    <Descrizione>TAPPI PER SFOGLIATE EXTRA</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0029</CodiceArticolo>
+    <Descrizione>TAPPI PER SFOGLIATE MEDI GR.28/30</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0027</CodiceArticolo>
+    <Descrizione>TAPPI PER SFOGLIATE MICRO</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>21.936</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0031</CodiceArticolo>
+    <Descrizione>TAPPI SFOG.MIGNON 4 KG.</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0026</CodiceArticolo>
+    <Descrizione>TAPPI SFOGLIATE MIGNON GR.20</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>16.73</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0024</CodiceArticolo>
+    <Descrizione>TAPPI SFOGLIATE S.ROSA GR.65/70</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>17.706</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TA0025</CodiceArticolo>
+    <Descrizione>TAPPI SFOGLIATELLE NAP. GR.55/60</Descrizione>
+    <GruppoMagazzino>106</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO PAST</DescrizioneGruppo>
+    <Prezzo>16.458</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TAR001</CodiceArticolo>
+    <Descrizione>TARTELLETTE DI FROLLA</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>10.2</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TAR002</CodiceArticolo>
+    <Descrizione>TARTELLETTE FROLLA MIGNON</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>7.234</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0061</CodiceArticolo>
+    <Descrizione>TIRAMISU' SAVOIARDI  MONOP.  G. 100</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>5.923</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0050</CodiceArticolo>
+    <Descrizione>TORTA BEATRICE TAGLIATA GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>11.605</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0029</CodiceArticolo>
+    <Descrizione>TORTA CAPRESE TAGL. GR.1100</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>12.964</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0057</CodiceArticolo>
+    <Descrizione>TORTA CHANTILLY GR.1000</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0053</CodiceArticolo>
+    <Descrizione>TORTA CIOCC.TAGLIATA GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>11.605</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0051</CodiceArticolo>
+    <Descrizione>TORTA CROSTATA MANDORLE TAGLIATA GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0040</CodiceArticolo>
+    <Descrizione>TORTA CUBANA PANNA E CIOCCOLATO G. 1300</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>14.636</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0054</CodiceArticolo>
+    <Descrizione>TORTA DELLA NONNA TAGLIATA GR.1400</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>10.947</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0056</CodiceArticolo>
+    <Descrizione>TORTA FRUTTA MISTA TAGLIATA GR.1400</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>14.322</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0052</CodiceArticolo>
+    <Descrizione>TORTA LIMONE TAGLIATA GR.1400</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>10.947</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0055</CodiceArticolo>
+    <Descrizione>TORTA MELE TAGLIATA GR.1500</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>11.719</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0044</CodiceArticolo>
+    <Descrizione>TORTA RICOTTA E PERA TAGL. GR.1300</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>12.964</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0028</CodiceArticolo>
+    <Descrizione>TORTA RICOTTA E PISTACCHIO  TAGL. GR.130</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>12.964</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0006</CodiceArticolo>
+    <Descrizione>TORTA RUSTICA "FRIARIELLI" E SALSICCIA</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>27.6</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0008</CodiceArticolo>
+    <Descrizione>TORTA RUSTICA AI CARCIOFI G. 700</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0004</CodiceArticolo>
+    <Descrizione>TORTA RUSTICA BROCCOLI E SALSICCIA  G. 1</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0003</CodiceArticolo>
+    <Descrizione>TORTA RUSTICA ORTOLANA G. 1200</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0005</CodiceArticolo>
+    <Descrizione>TORTA RUSTICA PROSCIUTTO E FORMAGGIO G.</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>28.43</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0007</CodiceArticolo>
+    <Descrizione>TORTA RUSTICA ZUCCHINE E SPECK G. 700</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0058</CodiceArticolo>
+    <Descrizione>TORTA SACHER G.1000</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>11.953</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TS0002</CodiceArticolo>
+    <Descrizione>TORTA SALATA AI CARCIOFI DIAM.24 GR.700</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TS0003</CodiceArticolo>
+    <Descrizione>TORTA SALATA PROSCIUTTO E ZUCCHINE DIAM.</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM />
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TS0001</CodiceArticolo>
+    <Descrizione>TORTA SALATA RICOTTA E SPINACI DIAM.24 G</Descrizione>
+    <GruppoMagazzino>108</GruppoMagazzino>
+    <DescrizioneGruppo>PF GLI SNACKS</DescrizioneGruppo>
+    <Prezzo>27.924</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0019</CodiceArticolo>
+    <Descrizione>TORTA SETTECIOK GR.1200</Descrizione>
+    <GruppoMagazzino>126</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRODOTTI SICILIAN</DescrizioneGruppo>
+    <Prezzo>12.24</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0049</CodiceArticolo>
+    <Descrizione>TORTA ZAGARA TAGLIATA GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>11.267</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0017O</CodiceArticolo>
+    <Descrizione>TOSCANELLA CON CREMA DI RISO G. 90</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0017</CodiceArticolo>
+    <Descrizione>TOSCANELLA CREMA E RISO G. 90</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>20.16</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PATR04</CodiceArticolo>
+    <Descrizione>TRAMEZZONE</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>47.7</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>PATR13</CodiceArticolo>
+    <Descrizione>TRANCIO FOCACCIA OLIO</Descrizione>
+    <GruppoMagazzino>110</GruppoMagazzino>
+    <DescrizioneGruppo>PF IL PANE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0026</CodiceArticolo>
+    <Descrizione>TRANCIO GELATO " ROCHE'"  G. 1200</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0027</CodiceArticolo>
+    <Descrizione>TRANCIO GELATO " SETTEVELI "  G. 1200</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0017</CodiceArticolo>
+    <Descrizione>TRANCIO MILLEFOGLIE GR.1200</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TO0025</CodiceArticolo>
+    <Descrizione>TRANCIO SAVOIARDI GR.1000</Descrizione>
+    <GruppoMagazzino>109</GruppoMagazzino>
+    <DescrizioneGruppo>PF LE TORTE</DescrizioneGruppo>
+    <Prezzo>10.671</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0015</CodiceArticolo>
+    <Descrizione>TRECCINA LAMPONE GR. 85</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>12.185</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0013</CodiceArticolo>
+    <Descrizione>TRECCINA SFOGLIA ALBICOC.GR.85</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>11.716</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0014</CodiceArticolo>
+    <Descrizione>TRECCINA SFOGLIA CIOCC. GR.85</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>13.086</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0012</CodiceArticolo>
+    <Descrizione>TRECCINA SFOGLIA CREMA GR.85</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>11.716</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0018</CodiceArticolo>
+    <Descrizione>TRECCINA SFOGLIA CREMA/AMARENA G.100</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>16.186</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0018O</CodiceArticolo>
+    <Descrizione>TRECCINA SFOGLIA CREMA/AMARENA G.100</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0022</CodiceArticolo>
+    <Descrizione>TRONCHETTO GEL."BACIONE" GR.1200</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>8.05</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0025</CodiceArticolo>
+    <Descrizione>TRONCHETTO GEL."CIOCC. E PANNA" GR.1200</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>8.05</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0024</CodiceArticolo>
+    <Descrizione>TRONCHETTO GEL."FRAGOLA E PANNA" GR.1200</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>8.05</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>TR0023</CodiceArticolo>
+    <Descrizione>TRONCHETTO GEL."NOCC. E PANNA" GR.1200</Descrizione>
+    <GruppoMagazzino>139</GruppoMagazzino>
+    <DescrizioneGruppo>GELATI</DescrizioneGruppo>
+    <Prezzo>8.05</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0018</CodiceArticolo>
+    <Descrizione>VELETTA DI SFOGLIA MIGNON    G. 24</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>23.793</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>CH0018O</CodiceArticolo>
+    <Descrizione>VELETTA DI SFOGLIA MIGNON    G. 24</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>23.793</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>VI0001</CodiceArticolo>
+    <Descrizione>VIENNESE AI FRUTTI DI BOSCO  G. 80</Descrizione>
+    <GruppoMagazzino>105</GruppoMagazzino>
+    <DescrizioneGruppo>PF PRONTO FORNO</DescrizioneGruppo>
+    <Prezzo>19.282</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>VI0001O</CodiceArticolo>
+    <Descrizione>VIENNESE AI FRUTTI DI BOSCO  G. 80</Descrizione>
+    <GruppoMagazzino>134</GruppoMagazzino>
+    <DescrizioneGruppo>PF SAMPLING</DescrizioneGruppo>
+    <Prezzo>0</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>VO0002</CodiceArticolo>
+    <Descrizione>VOL AU VENT MIGNON</Descrizione>
+    <GruppoMagazzino>100</GruppoMagazzino>
+    <DescrizioneGruppo>PF I SECCHI</DescrizioneGruppo>
+    <Prezzo>9.94</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>ZE0001</CodiceArticolo>
+    <Descrizione>ZEPPOLA AL FORNO CREMA E AMARENA GR. 130</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>7.38</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>ZE0002</CodiceArticolo>
+    <Descrizione>ZEPPOLA AL FORNO MIGNON CREMA E AMARENA</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>14.388</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+  <RigaInserimento>
+    <CodiceArticolo>ZE0002N</CodiceArticolo>
+    <Descrizione>ZEPPOLA AL FORNO MIGNON CREMA E AMARENA</Descrizione>
+    <GruppoMagazzino>107</GruppoMagazzino>
+    <DescrizioneGruppo>PF GIA COTTI</DescrizioneGruppo>
+    <Prezzo>14.388</Prezzo>
+    <UM>CT</UM>
+    <Quantità>0</Quantità>
+    <Giacenza>0</Giacenza>
+  </RigaInserimento>
+</ArrayOfRigaInserimento>

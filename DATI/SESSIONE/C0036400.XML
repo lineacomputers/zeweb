@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STDT_Doctes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <CodiceDocumento>PR</CodiceDocumento>
+  <TipoDocumento>P</TipoDocumento>
+  <NumeroDocumento>588</NumeroDocumento>
+  <DataDocumento>2013-08-09T15:22:10.5063561+02:00</DataDocumento>
+  <CodiceCliente>C0036400</CodiceCliente>
+  <CodiceAgente>WEB</CodiceAgente>
+  <Valuta>EUR</Valuta>
+  <CodicePagamento>V11</CodicePagamento>
+  <ScontoTestata>0+0+0</ScontoTestata>
+  <DataConsegna>2013-08-09T15:22:10.5063561+02:00</DataConsegna>
+  <NoteTesta />
+  <Acconto>0</Acconto>
+  <CodiceCessionario />
+  <Abbuono>0</Abbuono>
+  <ScontoCassa>0</ScontoCassa>
+  <CodiceMacchinario />
+  <ImportoSpesePagamento>0</ImportoSpesePagamento>
+  <DocumentoEliminato>0</DocumentoEliminato>
+  <TargaAutomezzo />
+  <NomeAgente> </NomeAgente>
+  <Inviato>0</Inviato>
+  <Consolidato>0</Consolidato>
+  <NomeFileModificato />
+  <NoteCliente />
+  <NoteAgente />
+  <Esposizione>277.19</Esposizione>
+  <N_ScadenzeAperte>5</N_ScadenzeAperte>
+  <N_GiorniRitardo>205</N_GiorniRitardo>
+  <DescrizioneDocumento>Preventivo</DescrizioneDocumento>
+  <ImponibileMinimo>0</ImponibileMinimo>
+  <ConfigControlloFido>NO</ConfigControlloFido>
+  <TipoValorizzazioneDDT>C</TipoValorizzazioneDDT>
+  <STDT_Intestazione>
+    <_ModificaPrezziAbilitata>N</_ModificaPrezziAbilitata>
+    <CODICE>C0036400</CODICE>
+    <Descrizione>PASTICCERIA DI CONTE FELICITA </Descrizione>
+    <PartitaIVA>IT00132261215</PartitaIVA>
+    <CodiceFiscale>CNTFCT61M47B990S</CodiceFiscale>
+    <Indirizzo>VIA ALESSANDRO MANZONI  76</Indirizzo>
+    <Cap>80026</Cap>
+    <Localita>CASORIA</Localita>
+    <Provincia>NA</Provincia>
+    <Zona />
+    <Pagamento>V11</Pagamento>
+    <Sconto1>0</Sconto1>
+    <Sconto2>0</Sconto2>
+    <Sconto3>0</Sconto3>
+    <CodiceEsenzione />
+    <CodiceListino>2</CodiceListino>
+    <Valuta>EUR</Valuta>
+    <GruppoListino>104</GruppoListino>
+    <StatoCF />
+    <CodiceAgente>22</CodiceAgente>
+    <Telefono>081/7574180</Telefono>
+    <Email />
+    <Giro />
+    <Sequenza>16</Sequenza>
+    <DocumentoAbituale />
+    <TipoValorizzazioneDDT>C</TipoValorizzazioneDDT>
+    <GestioneCessionario>N</GestioneCessionario>
+    <ModificaPrezziAbilitata>N</ModificaPrezziAbilitata>
+    <ModificaScontiAbilitata>S</ModificaScontiAbilitata>
+    <TipoOmaggio>0</TipoOmaggio>
+    <MonteOmaggio>0</MonteOmaggio>
+    <ImportoFidoMassimo>400</ImportoFidoMassimo>
+    <NumeroMassimoPartiteAperte>0</NumeroMassimoPartiteAperte>
+    <NumeroMassimoGiorniScoperto>60</NumeroMassimoGiorniScoperto>
+    <NonControllaFidoSeIncasso>0</NonControllaFidoSeIncasso>
+    <GruppoClienteCanvas />
+    <MarginalitaMinima>0</MarginalitaMinima>
+  </STDT_Intestazione>
+  <STDT_Destinazione>
+    <_ModificaPrezziAbilitata>N</_ModificaPrezziAbilitata>
+    <CODICE>C0036400</CODICE>
+    <Descrizione>PASTICCERIA DI CONTE FELICITA </Descrizione>
+    <PartitaIVA>IT00132261215</PartitaIVA>
+    <CodiceFiscale>CNTFCT61M47B990S</CodiceFiscale>
+    <Indirizzo>VIA ALESSANDRO MANZONI  76</Indirizzo>
+    <Cap>80026</Cap>
+    <Localita>CASORIA</Localita>
+    <Provincia>NA</Provincia>
+    <Zona />
+    <Pagamento>V11</Pagamento>
+    <Sconto1>0</Sconto1>
+    <Sconto2>0</Sconto2>
+    <Sconto3>0</Sconto3>
+    <CodiceEsenzione />
+    <CodiceListino>2</CodiceListino>
+    <Valuta>EUR</Valuta>
+    <GruppoListino>104</GruppoListino>
+    <StatoCF />
+    <CodiceAgente>22</CodiceAgente>
+    <Telefono>081/7574180</Telefono>
+    <Email />
+    <Giro />
+    <Sequenza>16</Sequenza>
+    <DocumentoAbituale />
+    <TipoValorizzazioneDDT>C</TipoValorizzazioneDDT>
+    <GestioneCessionario>N</GestioneCessionario>
+    <ModificaPrezziAbilitata>N</ModificaPrezziAbilitata>
+    <ModificaScontiAbilitata>S</ModificaScontiAbilitata>
+    <TipoOmaggio>0</TipoOmaggio>
+    <MonteOmaggio>0</MonteOmaggio>
+    <ImportoFidoMassimo>400</ImportoFidoMassimo>
+    <NumeroMassimoPartiteAperte>0</NumeroMassimoPartiteAperte>
+    <NumeroMassimoGiorniScoperto>60</NumeroMassimoGiorniScoperto>
+    <NonControllaFidoSeIncasso>0</NonControllaFidoSeIncasso>
+    <GruppoClienteCanvas />
+    <MarginalitaMinima>0</MarginalitaMinima>
+  </STDT_Destinazione>
+  <STDT_Cessionario>
+    <Descrizione />
+    <Sequenza>0</Sequenza>
+    <ModificaPrezziAbilitata>S</ModificaPrezziAbilitata>
+    <ModificaScontiAbilitata>S</ModificaScontiAbilitata>
+    <TipoOmaggio>0</TipoOmaggio>
+    <MonteOmaggio>0</MonteOmaggio>
+    <ImportoFidoMassimo>0</ImportoFidoMassimo>
+    <NumeroMassimoPartiteAperte>0</NumeroMassimoPartiteAperte>
+    <NumeroMassimoGiorniScoperto>0</NumeroMassimoGiorniScoperto>
+    <NonControllaFidoSeIncasso>0</NonControllaFidoSeIncasso>
+    <MarginalitaMinima>0</MarginalitaMinima>
+  </STDT_Cessionario>
+  <STDT_Docrig />
+  <STDT_DocIVA />
+</STDT_Doctes>

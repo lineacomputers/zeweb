@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_Utenti xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STDT_Utenti>
+    <LOGIN>aa</LOGIN>
+    <Password>bb</Password>
+    <CodiceRuolo>AMM</CodiceRuolo>
+    <Email>renato.gostoli@station.it</Email>
+    <Telefono />
+  </STDT_Utenti>
+  <STDT_Utenti>
+    <LOGIN>C0036400</LOGIN>
+    <Password>1</Password>
+    <CodiceRuolo>CLI</CodiceRuolo>
+    <Email>1</Email>
+    <Telefono />
+  </STDT_Utenti>
+</ArrayOfSTDT_Utenti>

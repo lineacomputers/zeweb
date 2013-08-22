@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_Docana xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>PR</CODICE_DOCUMENTO>
+    <Descrizione>Preventivo</Descrizione>
+    <TipoDocumento>P</TipoDocumento>
+    <Contatore>587</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>OC</CODICE_DOCUMENTO>
+    <Descrizione>Ordine</Descrizione>
+    <TipoDocumento>O</TipoDocumento>
+    <Contatore>52</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail>MA4Documento</ModuloMail>
+    <ModuloStampa>M51x60Magazzino</ModuloStampa>
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>PDF</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>PM</CODICE_DOCUMENTO>
+    <Descrizione>Ordine Pomeriggio</Descrizione>
+    <TipoDocumento>O</TipoDocumento>
+    <Contatore>0</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>BO</CODICE_DOCUMENTO>
+    <Descrizione>DDT</Descrizione>
+    <TipoDocumento>B</TipoDocumento>
+    <Contatore>136</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>2</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>BK</CODICE_DOCUMENTO>
+    <Descrizione>DDT da fatturare in giornata</Descrizione>
+    <TipoDocumento>B</TipoDocumento>
+    <Contatore>0</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>2</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>FT</CODICE_DOCUMENTO>
+    <Descrizione>Fattura</Descrizione>
+    <TipoDocumento>F</TipoDocumento>
+    <Contatore>0</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>3</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>BM</CODICE_DOCUMENTO>
+    <Descrizione>Bolla Comodato</Descrizione>
+    <TipoDocumento>G</TipoDocumento>
+    <Contatore>0</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>2</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>GE</CODICE_DOCUMENTO>
+    <Descrizione>Documento Generico Di Scarico</Descrizione>
+    <TipoDocumento>G</TipoDocumento>
+    <Contatore>0</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>2</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>CT</CODICE_DOCUMENTO>
+    <Descrizione>Carico Fiscale</Descrizione>
+    <TipoDocumento>C</TipoDocumento>
+    <Contatore>2</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>IT</CODICE_DOCUMENTO>
+    <Descrizione>Carico Integrativo</Descrizione>
+    <TipoDocumento>I</TipoDocumento>
+    <Contatore>0</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>XT</CODICE_DOCUMENTO>
+    <Descrizione>Ricarico Parziale</Descrizione>
+    <TipoDocumento>X</TipoDocumento>
+    <Contatore>1</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>RT</CODICE_DOCUMENTO>
+    <Descrizione>Reso Globale</Descrizione>
+    <TipoDocumento>R</TipoDocumento>
+    <Contatore>0</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>YT</CODICE_DOCUMENTO>
+    <Descrizione>Scarico Parziale</Descrizione>
+    <TipoDocumento>Y</TipoDocumento>
+    <Contatore>1</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+  <STDT_Docana>
+    <CODICE_DOCUMENTO>ZT</CODICE_DOCUMENTO>
+    <Descrizione>Carico Fiscale IN</Descrizione>
+    <TipoDocumento>C</TipoDocumento>
+    <Contatore>0</Contatore>
+    <CodiceModulo />
+    <NumeroCopie>1</NumeroCopie>
+    <NumeroCopieContoCessione>0</NumeroCopieContoCessione>
+    <GeneraScadenze>0</GeneraScadenze>
+    <ModuloMail />
+    <ModuloStampa />
+    <FlagMail>false</FlagMail>
+    <MandaMailAzienda>false</MandaMailAzienda>
+    <MandaMailAnagrafica>false</MandaMailAnagrafica>
+    <TipoMail>TXT</TipoMail>
+    <FlagStampa>false</FlagStampa>
+    <TipoStampa>TXT</TipoStampa>
+    <RichiestaConfermaMail>false</RichiestaConfermaMail>
+    <RichiestaConfermaStampa>false</RichiestaConfermaStampa>
+  </STDT_Docana>
+</ArrayOfSTDT_Docana>

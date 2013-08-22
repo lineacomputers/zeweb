@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Prodotti</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
+</head>
+<body>
+    <script src="../js/ProdottiInsert.js"></script>
+    <script src="../js/Ricerca.js"></script>
+    <script src="../js/Incrementing.js"></script>
+    <script src="../js/InserisciRighe.js"></script>
+
+    <div data-role="page" id="prodottiinsert">
+
+        <div style="overflow: hidden;" data-role="header"  data-theme="b" data-position="fixed">
+            <a href="#" class="InserisciDocButton" data-rel="back" data-role="button" data-icon="check" >Salva Nel Carrello <span id="ContatoreCarrello" class="ui-li-count"></span></a>
+            <h1 >Prodotti</h1>
+            <a href="#" data-role="button" data-icon="delete" data-transition="slide" data-rel="back" data-iconpos="notext" class="ui-btn-right" >Actions...</a>
+        </div>
+  
+ 
+
+  
+        <div data-role="content">
+            <input type="search" name="search" id="search" value="" />
+            <div>
+                <table class="ui-body-d ui-shadow table-stripe ui-responsive"  id="movie-table" data-role="table" data-mode="columntoggle" data-column-popup-theme="a" data-column-btn-text="C" data-column-btn-theme="b">
+                    <thead >
+                        <tr data-theme="a">
+                            <th data-priority="4" style ="text-align:left">Codice</th>
+                            <th data-priority="1" style ="text-align:left">Descrizione</th>
+                            <th data-priority="3" style ="text-align:left">Gruppo</th>
+                            <th data-priority="3" style ="text-align:right">Giacenza</th>
+                            <th data-priority="2" style ="text-align:right">Prezzo</th>
+                            <th data-priority="4" style ="text-align:left">UM</th>
+                            <th data-priority="4" style ="text-align:right"></th>
+                            <th data-priority="1" style ="text-align:center">Quantità</th>
+                            <th data-priority="4" style ="text-align:left"></th>
+                            <th data-priority="1" style ="text-align:right"></th>
+                        </tr>
+                    </thead>
+                    
+         
+                    <tbody id="TabellaArticoliBody">
+ 
+                    </tbody>
+
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+  
+
+
+</html>
+
+
+ 
+  
+  

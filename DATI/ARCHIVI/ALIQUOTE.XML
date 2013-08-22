@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_Aliquote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STDT_Aliquote>
+    <CODICE>10</CODICE>
+    <Descrizione>Iva 10% vendite</Descrizione>
+    <Aliquota>10</Aliquota>
+    <AliquotaRSM>0</AliquotaRSM>
+  </STDT_Aliquote>
+  <STDT_Aliquote>
+    <CODICE>20</CODICE>
+    <Descrizione>Iva 21% vendite</Descrizione>
+    <Aliquota>21</Aliquota>
+    <AliquotaRSM>0</AliquotaRSM>
+  </STDT_Aliquote>
+  <STDT_Aliquote>
+    <CODICE>4</CODICE>
+    <Descrizione>Iva 4% vendite</Descrizione>
+    <Aliquota>4</Aliquota>
+    <AliquotaRSM>0</AliquotaRSM>
+  </STDT_Aliquote>
+</ArrayOfSTDT_Aliquote>

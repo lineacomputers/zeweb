@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html> 
+<html>
+
+<head>
+    <title>Zippy_Web_BtoB</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css" />
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
+     
+    <script src="js/Login.js"></script>
+    <script src="js/Gruppi.js"></script>
+    <script src="js/Prodotti.js"></script>
+    <script src="js/ProdottiInsert.js"></script>
+    <script src="js/Ricerca.js"></script>
+    <script src="js/Incrementing.js"></script>
+    <script src="js/InserisciRighe.js"></script>
+    <script src="js/Testata.js"></script>
+    <script src="js/EstrattoConto.js"></script>  
+
+</head>
+<body>
+    <div data-role="page" id="login" data-theme="b">
+        <div data-role="header" >
+            <h3>Login App ZeWeb</h3>
+        </div>
+
+        <div data-role="content">
+            <form id="check-user" class="ui-body ui-body-a ui-corner-all" data-ajax="false">
+                <div data-role="fieldcontain">
+                    <label for="username">Utente:</label>
+                    <input type="text" value="" name="username" id="username" data-theme="c"/>
+                </div>                                  
+                <div data-role="fieldcontain">                                      
+                    <label for="password">Password:</label>
+                    <input type="password" value="" name="password" id="password" data-theme="c"/> 
+                </div>
+                <input type="button" data-theme="b" name="submit" id="submit" value="Conferma">
+            </form>                              
+        </div>
+
+        <div data-theme="a" data-role="footer" data-position="fixed">
+            <h6>by Linea Computers srl</h6>
+        </div>
+    </div>
+</body>
+</html>
+

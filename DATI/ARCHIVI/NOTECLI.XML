@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_Notecli xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STDT_Notecli>
+    <CodiceCliente />
+    <Tipo>'0'</Tipo>
+    <Riga>0</Riga>
+    <Descrizione />
+  </STDT_Notecli>
+  <STDT_Notecli>
+    <CodiceCliente />
+    <Tipo>'0'</Tipo>
+    <Riga>0</Riga>
+    <Descrizione />
+  </STDT_Notecli>
+  <STDT_Notecli>
+    <CodiceCliente />
+    <Tipo>'0'</Tipo>
+    <Riga>0</Riga>
+    <Descrizione />
+  </STDT_Notecli>
+  <STDT_Notecli>
+    <CodiceCliente />
+    <Tipo>'0'</Tipo>
+    <Riga>0</Riga>
+    <Descrizione />
+  </STDT_Notecli>
+</ArrayOfSTDT_Notecli>

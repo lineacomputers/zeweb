@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_Maggrp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STDT_Maggrp>
+    <CODICE>117</CODICE>
+    <Descrizione>AT ATTREZZATURE</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>119</CODICE>
+    <Descrizione>AT CONGELATORI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>118</CODICE>
+    <Descrizione>AT FORNI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>131</CODICE>
+    <Descrizione>CONTRIBUTO CONAI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>139</CODICE>
+    <Descrizione>GELATI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>114</CODICE>
+    <Descrizione>IM IMBALLAGGI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>130</CODICE>
+    <Descrizione>IMPOSTA DI BOLLO</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>132</CODICE>
+    <Descrizione>MATERIALE DI CONSUMO</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>113</CODICE>
+    <Descrizione>MP MATERIE PRIME</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>120</CODICE>
+    <Descrizione>OMAGGI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>129</CODICE>
+    <Descrizione>OMAGGI DA FORNITORI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>127</CODICE>
+    <Descrizione>PF DA LIEV. PRODA</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>101</CODICE>
+    <Descrizione>PF DA LIEVITARE</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>107</CODICE>
+    <Descrizione>PF GIA COTTI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>108</CODICE>
+    <Descrizione>PF GLI SNACKS</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>100</CODICE>
+    <Descrizione>PF I SECCHI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>125</CODICE>
+    <Descrizione>PF I SEMILAVORATI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>110</CODICE>
+    <Descrizione>PF IL PANE</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>109</CODICE>
+    <Descrizione>PF LE TORTE</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>103</CODICE>
+    <Descrizione>PF LINEA BURRO</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>124</CODICE>
+    <Descrizione>PF LINEA REGAL</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>138</CODICE>
+    <Descrizione>PF LINEA RETAIL</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>135</CODICE>
+    <Descrizione>PF MISTER VIVA</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>111</CODICE>
+    <Descrizione>PF PIATTI PRONTI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>104</CODICE>
+    <Descrizione>PF PRELIEVITATI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>126</CODICE>
+    <Descrizione>PF PRODOTTI SICILIAN</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>136</CODICE>
+    <Descrizione>PF PROFESSIONAL</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>105</CODICE>
+    <Descrizione>PF PRONTO FORNO</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>106</CODICE>
+    <Descrizione>PF PRONTO FORNO PAST</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>134</CODICE>
+    <Descrizione>PF SAMPLING</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>133</CODICE>
+    <Descrizione>PF SUPERFARCITI</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>128</CODICE>
+    <Descrizione>SPESE D'INCASSO</Descrizione>
+  </STDT_Maggrp>
+  <STDT_Maggrp>
+    <CODICE>121</CODICE>
+    <Descrizione>VARI</Descrizione>
+  </STDT_Maggrp>
+</ArrayOfSTDT_Maggrp>

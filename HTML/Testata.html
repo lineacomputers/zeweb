@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ 
+<head>
+    <title>Testata</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
+
+</head>
+<body>
+
+     <div data-role="page" id="testata"> 
+
+        <div style="overflow: hidden;" data-role="header"  data-theme="b" data-position="fixed">
+            <a href="#" data-rel="back" data-role="button" data-icon="check" >Invia</a>
+            <h1 id="TipoDocumento">Carrello</h1>
+            <a href="#panelMenu" data-role="button" data-icon="bars" data-transition="slide" data-rel="popup" data-iconpos="notext" class="ui-btn-right" >Actions...</a>
+        </div>
+        <!--<div id="popupMenu" data-role="popup" >
+            <div data-role="controlgroup">
+                <a href="#" data-role="button" data-icon="delete" >Annulla</a>
+                <a href="#" data-role="button" data-icon="home" >Disconnetti</a>
+                <a href="#" data-role="button" data-icon="gear" >Profilo</a>
+                <a href="#" data-role="button" data-icon="grid">Elenco Documenti Inviati</a>
+            </div>
+        </div>-->
+
+        <div data-role="panel" id="panelMenu" data-display="overlay" data-position="right" data-theme="b">
+            <a href="#" data-role="button" data-icon="delete" >Annulla</a>
+            <a href="#" data-role="button" data-icon="home" >Disconnetti</a>
+            <a href="#" data-role="button" data-icon="gear" >Profilo</a>
+            <a href="#" data-role="button" data-icon="grid">Elenco Documenti Inviati</a>
+        </div>
+        <div style="overflow: hidden;" data-role="footer"  data-theme="b" data-position="fixed">
+            <div data-role="navbar">
+                <ul>
+                    <li><a href="Prodotti.html" data-icon="grid" data-transition="slide">Prodotti</a></li>
+                    <li><a href="Gruppi.html" data-icon="star" data-transition="slide">Gruppi</a></li>
+                    <li><a href="Riordine.html" data-icon="gear" data-transition="slide">Riordine</a></li>
+                </ul>
+            </div>
+        </div>
+    
+        <div data-role="content">
+            <div >
+                <h3 style ="text-align:center" >benvenuto</h3>
+            </div>
+            <div >
+                <h1 id="Descrizione"  style ="text-align:center" >Descrizione Cliente</h1>
+            </div>
+            <!--<div id="Indirizzo">
+                Indirizzo Cliente
+            </div>
+            <div id="LocalitaProvincia">
+                Localita Cliente
+                Provincia Cliente
+            </div>
+            <div id="DescrizionePagamento">
+                DescrizionePagamento Cliente
+            </div>-->
+
+            <div>
+                <div id = "EC-collaspible" data-role="collapsible" data-theme="b" data-content-theme="d">
+                    <h4 id="Esposizione">Esposizione</h4>
+                    <div>
+                        <table class="ui-body-d ui-shadow table-stripe ui-responsive" id="table1" data-role="table" data-mode="columntoggle" data-column-popup-theme="a" data-column-btn-text="Colonne da visualizzare..." data-column-btn-theme="b">
+                            <thead >
+                            <tr data-theme="a">
+                                <th data-priority="4" style ="text-align:left">Doc</th>
+                                <th data-priority="3" style ="text-align:left">Numero</th>
+                                <th data-priority="2" style ="text-align:left">Data</th>
+                                <th data-priority="1" style ="text-align:left">Scadenza</th>
+                                <th data-priority="1" style ="text-align:right">Importo</th>
+                            </tr>
+                            </thead>
+     
+                            <tbody id="DetEC">
+    
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+  
+            </div>
+            <div data-role="controlgroup" data-type="horizontal" aria-expanded="true">
+                <a href="#" id="TotInponibile" data-role="button" data-theme="c">Imponibile €  </a>
+                <a href="#" id="TotQta" data-role="button" data-theme="c">Quantità  </a>
+                <a href="#" id="TotRighe" data-role="button" data-theme="c">Righe  </a>
+            </div>
+
+    
+            <table class="ui-body-d ui-shadow table-stripe ui-responsive"  id="table-custom-2" data-role="table" data-mode="columntoggle" data-column-popup-theme="a" data-column-btn-text="C" data-column-btn-theme="b">
+                <thead >
+                    <tr data-theme="a">
+                        <th data-priority="4" style ="text-align:left">Codice</th>
+                        <th data-priority="1" style ="text-align:left">Descrizione</th>
+                        <th data-priority="1" style ="text-align:left">UM</th>
+                        <th data-priority="1" style ="text-align:right">Quantità</th>
+                        <th data-priority="2" style ="text-align:right">Prezzo</th>
+                        <th data-priority="3" style ="text-align:right">Sc</th>
+                        <th data-priority="2" style ="text-align:right">Totale</th>
+                        <th data-priority="1"></th>
+                    </tr>
+                </thead>
+                <tbody id="DetCorpo">
+                </tbody>
+            </table>
+
+            <!--<table class="ui-body-d ui-shadow table-stripe ui-responsive"  id="table3" data-role="table" data-mode="columntoggle" data-column-popup-theme="a" data-column-btn-text="C" data-column-btn-theme="b">
+                <thead >
+                    <tr data-theme="a">
+                        <th data-priority="4" style ="text-align:left">Codice</th>
+                        <th data-priority="1" style ="text-align:left">Descrizione</th>
+                        <th data-priority="1" style ="text-align:left">UM</th>
+                        <th data-priority="1" style ="text-align:right">Quantità</th>
+                        <th data-priority="2" style ="text-align:right">Prezzo</th>
+                        <th data-priority="3" style ="text-align:right">Sc</th>
+                        <th data-priority="2" style ="text-align:right">Totale</th>
+                        <th data-priority="1"></th>
+                    </tr>
+                </thead>
+                <tbody id="Tbody1">
+                    <tr>
+                      <th>1</th>
+                      <td>2</td>
+                      <td>3</td>
+                      <td>4</td>
+                      <td>5</td>
+                      <td>6</td>
+                      <td>7</td>
+                    </tr>
+
+                </tbody>
+            </table>-->
+        </div>
+    </div>
+</body>
+</html>

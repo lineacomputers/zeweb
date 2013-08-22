@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>NuovoUtente</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
+</head>
+<body>
+    <script src="../js/UtenteNuovo.js"></script>
+    <div data-role="page" id="Utente Nuovo" data-theme="b">
+        <div data-role="header" data-theme="a">
+            <h3>Nuovo Utente</h3>
+        </div>
+
+        <div data-role="content">
+            <form id="new-user" class="ui-body ui-body-a ui-corner-all" data-ajax="false">
+                <div data-role="fieldcontain">
+                    <label for="username">Utente:</label>
+                    <input type="text" value="" name="username" id="username" data-theme="c"/>
+                </div>                                  
+                <div data-role="fieldcontain">                                      
+                    <label for="password">Password:</label>
+                    <input type="text" value="" name="password" id="password" data-theme="c"/> 
+                </div>
+                <div data-role="fieldcontain">                                      
+                    <label for="password">ConfermaPassword:</label>
+                    <input type="text" value="" name="Conferma_password" id="Conferma_password" data-theme="c"/> 
+                </div>
+                <div data-role="fieldcontain">                                      
+                    <label for="password">Email:</label>
+                    <input type="text" value="" name="Email" id="Email" data-theme="c"/> 
+                </div>
+                <div data-role="fieldcontain">
+                    <label for="combo">Ruolo:</label>
+                    <select name="combo" id="combo" data-theme="c">
+                        <option value="AMM">Amministratore</option>
+                        <option selected="selected" value="AGE">Cliente</option>
+                     </select>
+                </div>
+
+
+
+                <input type="button" data-theme="b" name="submit" id="Salva" value="Salva" />
+            </form>                              
+        </div>
+
+        <div data-theme="a" data-role="footer" data-position="fixed">
+            <h6>by Linea Computers srl</h6>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_Pagament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STDT_Pagament>
+    <CODICE>V1</CODICE>
+    <Descrizione>RIMESSA DIRETTA 120 GG FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V-1</CODICE>
+    <Descrizione>RIMESSA DIRETTA</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V10</CODICE>
+    <Descrizione>CONTANTI</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V11</CODICE>
+    <Descrizione>CONTANTI ALLA CONSEGNA</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V12</CODICE>
+    <Descrizione>CONTRASSEGNO</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V13</CODICE>
+    <Descrizione>BONIFICO BANCARIO</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V14</CODICE>
+    <Descrizione>BONIFICO BANCARIO FM + 60 GG.G.</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V15</CODICE>
+    <Descrizione>BONIFICO BANCARIO 30 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V16</CODICE>
+    <Descrizione>BONIFICO BANCARIO 60 GG D.F.</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V17</CODICE>
+    <Descrizione>BONIFICO BANCARIO 90 GG DF FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V18</CODICE>
+    <Descrizione>RI.BA. 120 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V19</CODICE>
+    <Descrizione>RI.BA. 90 GG FM + 8 GG</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V2</CODICE>
+    <Descrizione>RIMESSA DIRETTA 30 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V20</CODICE>
+    <Descrizione>RI.BA. 120 GG DF FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V21</CODICE>
+    <Descrizione>RI.BA. 30 GG FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V22</CODICE>
+    <Descrizione>RI.BA. 30 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V23</CODICE>
+    <Descrizione>RI.BA. 60 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V24</CODICE>
+    <Descrizione>RI.BA. 60 GG FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V25</CODICE>
+    <Descrizione>RI.BA. 60 GG FM + 7 GG</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V26</CODICE>
+    <Descrizione>RI.BA. 60/90 GG FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V27</CODICE>
+    <Descrizione>RI.BA. 75 GG FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V28</CODICE>
+    <Descrizione>RI.BA. 90 GG FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V29</CODICE>
+    <Descrizione>RI.BA. 90 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V3</CODICE>
+    <Descrizione>RIMESSA DIRETTA 45 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V30</CODICE>
+    <Descrizione>RI.BA 120G DF FM +10G</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V31</CODICE>
+    <Descrizione>RIBA 90 GG.FM +10</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V32</CODICE>
+    <Descrizione>BONIFICO 30/60 DF FM</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V33</CODICE>
+    <Descrizione>RIMESSA DIRETTA 31/12/2008</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V34</CODICE>
+    <Descrizione>RIBA 90/120 GG  FM +10</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V35</CODICE>
+    <Descrizione>RI.BA. 120 G.G. FM +10</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V36</CODICE>
+    <Descrizione>RIMESSA DIRETTA 31/12/09</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V37</CODICE>
+    <Descrizione>Corrispettivi Contanti</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V38</CODICE>
+    <Descrizione>-</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V4</CODICE>
+    <Descrizione>RIMESSA DIRETTA 1/2 AGENTE</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V5</CODICE>
+    <Descrizione>RIMESSA DIRETTA 60 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V6</CODICE>
+    <Descrizione>RIMESSA DIRETTA FM + 60 G.G.</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V7</CODICE>
+    <Descrizione>RIMESSA DIRETTA 60 GG DF 1/2 AGENTE</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V8</CODICE>
+    <Descrizione>RIMESSA DIRETTA 75 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+  <STDT_Pagament>
+    <CODICE>V9</CODICE>
+    <Descrizione>RIMESSA DIRETTA 90 GG DF</Descrizione>
+    <Spesa>0</Spesa>
+  </STDT_Pagament>
+</ArrayOfSTDT_Pagament>

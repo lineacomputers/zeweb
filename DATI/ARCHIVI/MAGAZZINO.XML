@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSTDT_Magazzino xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <STDT_Magazzino>
+    <CODICE_ARTICOLO>AR0017</CODICE_ARTICOLO>
+    <LOTTO />
+    <VARIANTE1 />
+    <VARIANTE2 />
+    <Carico>0</Carico>
+    <Vendita>3</Vendita>
+    <Omaggio>0</Omaggio>
+    <Reso>0</Reso>
+    <RettificaPositiva>0</RettificaPositiva>
+    <RettificaNegativa>0</RettificaNegativa>
+    <Ordinato>0</Ordinato>
+    <GiacenzaSede>0</GiacenzaSede>
+  </STDT_Magazzino>
+  <STDT_Magazzino>
+    <CODICE_ARTICOLO>AR0001</CODICE_ARTICOLO>
+    <LOTTO />
+    <VARIANTE1 />
+    <VARIANTE2 />
+    <Carico>0</Carico>
+    <Vendita>2</Vendita>
+    <Omaggio>0</Omaggio>
+    <Reso>0</Reso>
+    <RettificaPositiva>0</RettificaPositiva>
+    <RettificaNegativa>0</RettificaNegativa>
+    <Ordinato>0</Ordinato>
+    <GiacenzaSede>0</GiacenzaSede>
+  </STDT_Magazzino>
+</ArrayOfSTDT_Magazzino>
